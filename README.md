@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iskocan01 from Turkey
+- 👋 Hi, I’m Ismet  from Turkey
 - 👀 I’m interested in C# and php 
 - 🌱 I’m currently learning PHP 
 - 💞️ I’m looking to collaborate on real project 
